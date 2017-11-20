@@ -19,6 +19,9 @@ import com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords as WebUiBuiltInKe
 import com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords as WebUI
 import internal.GlobalVariable as GlobalVariable
 
+//Test git committ
+
+
 while (GlobalVariable.WOSTATUS.contains('Pending')) {
     for (int j = 0; j < GlobalVariable.AssignmentList.size(); j++) {
         GlobalVariable.Status = GlobalVariable.AssignmentList[j].text
