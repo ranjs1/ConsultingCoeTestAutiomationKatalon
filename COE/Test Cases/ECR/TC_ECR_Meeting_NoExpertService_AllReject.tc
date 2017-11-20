@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_ECR_Meeting_NoExpertService_AllReject</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>e0871472-1195-47e8-8df8-b2fdee034cfa</testCaseGuid>
+</TestCaseEntity>
